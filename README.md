@@ -4,6 +4,7 @@ Smart command executor.
 
 ---
 
+[![PyPI Downloads](https://static.pepy.tech/badge/smartexecutorlib)](https://pepy.tech/projects/smartexecutorlib)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smartexecutorlib)](https://github.com/smartlegionlab/smartexecutorlib/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/smartexecutorlib?label=pypi%20downloads)](https://pypi.org/project/smartexecutorlib/)
 ![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smartexecutorlib)
