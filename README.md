@@ -1,4 +1,4 @@
-# smartexecutorlib
+# smartexecutorlib <sup>v0.1.1</sup>
 
 Smart command executor.
 
@@ -53,6 +53,6 @@ smart_executor.sub.execute('pip list')
     --------------------------------------------------------
     Licensed under the terms of the BSD 3-Clause License
     (see LICENSE for details).
-    Copyright © 2018-2024, A.A. Suvorov
+    Copyright © 2018-2025, A.A. Suvorov
     All rights reserved.
     --------------------------------------------------------
